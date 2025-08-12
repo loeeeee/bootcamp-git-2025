@@ -7,7 +7,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 **Name:** Loe
 
-**Hobbies:**
+**Hobbies:** Fixing Wi-Fi router
 
 ## Section 1: Your First Commit
 
